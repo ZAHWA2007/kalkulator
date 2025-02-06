@@ -32,4 +32,14 @@ b.	Tangani kasus ketika pengguna memasukkan nilai yang tidak valid atau kosong.
 5.	Tampilkan Hasil
 a.	Setelah operasi matematika selesai, tampilkan hasil perhitungan pada antarmuka pengguna menggunakan Label atau TextBox.
 b.	Berikan pesan kesalahan yang jelas jika terjadi pembagian dengan nol atau kesalahan lainnya.
-[image](https://github.com/user-attachments/assets/bf89190c-1997-4b6f-bd0f-85b0992e6d2c)
+![kalkulator](https://github.com/user-attachments/assets/f7e3d169-1ce6-4c89-92d7-af00b87f956a)
+
+
+
+
+
+
+
+
+
+
